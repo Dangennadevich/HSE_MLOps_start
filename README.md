@@ -1,4 +1,4 @@
-# HSE_MLOps_start
+# HSE MLOps start
 Проекты в ВШЭ-МОВС по дисциплине "MLOps начало"
 
 ___ДЗ1___
